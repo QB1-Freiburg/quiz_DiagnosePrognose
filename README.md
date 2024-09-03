@@ -39,7 +39,7 @@ Bei einem diagnostischen Test mit stetiger Ausprägung (z.B. Grad Celsius beim F
 Ein Screeningverfahren ist eine systematische Untersuchung von asymptomatischen Personen zur Früherkennung einer bestimmten Erkrankung. Welche Aussage trifft nicht zu?<br>  
   
 1)  Ein bevölkerungsweites Screeningverfahren kann eingeführt werden, wenn die Krankheit eine signifikante Gesundheitsbelastung darstellt und wenn eine Kosten-Nutzen-Analyse zeigt, dass das Screeningverfahren ökonomisch vertretbar ist.<br>  
-2)  Ein bevölkerungsweites Screeningverfahren kann ohne weitere Überlegungen oder Prüfungen eingeführt werden, sobald eine Studie die Wirksamkeit des Tests und Frühbehandlung nachweist.<br>  
+2)  Ein bevölkerungsweites Screeningverfahren ist immer vorteilhaft für die Bevölkerung, da es keine Risiken oder Nachteile für die Teilnehmer birgt. <br>  
 3)  Ein bevölkerungsweites Screeningverfahren birgt mögliche Verzerrungsquellen in einer Analyse.<br>  
 4)  Ein bevölkerungsweites Screeningverfahren kann eingeführt werden, wenn es eine wirksame Behandlung und Intervention für früh entdeckte Fälle gibt.<br>  
   
