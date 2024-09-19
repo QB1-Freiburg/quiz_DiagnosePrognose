@@ -32,14 +32,5 @@ Bei einem diagnostischen Test mit stetiger Ausprägung (z.B. Grad Celsius beim F
 3)  Der Cut-Point wird durch Abwägen der Sensitivität und Spezifität des Tests bestimmt, um einen bestmöglichen Kompromiss zwischen falsch-positiven und falsch-negativen Ergebnissen zu finden.<br>  
 4)  Der Cut-Point wird basierend auf der Durchschnittstemperatur aller gesunden Personen festgelegt.<br>  
 
----
 
-### Frage 4 
-
-Ein Screeningverfahren ist eine systematische Untersuchung von asymptomatischen Personen zur Früherkennung einer bestimmten Erkrankung. Welche Aussage trifft nicht zu?<br>  
-  
-1)  Ein bevölkerungsweites Screeningverfahren kann eingeführt werden, wenn die Krankheit eine signifikante Gesundheitsbelastung darstellt und wenn eine Kosten-Nutzen-Analyse zeigt, dass das Screeningverfahren ökonomisch vertretbar ist.<br>  
-2)  Ein bevölkerungsweites Screeningverfahren ist immer vorteilhaft für die Bevölkerung, da es keine Risiken oder Nachteile für die Teilnehmer birgt. <br>  
-3)  Ein bevölkerungsweites Screeningverfahren birgt mögliche Verzerrungsquellen in einer Analyse.<br>  
-4)  Ein bevölkerungsweites Screeningverfahren kann eingeführt werden, wenn es eine wirksame Behandlung und Intervention für früh entdeckte Fälle gibt.<br>  
   
